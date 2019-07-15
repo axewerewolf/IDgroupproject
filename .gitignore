@@ -75,3 +75,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/DreamMan/Saved/Config/Windows/*.ini
+/DreamMan/Saved/Config/Windows/*.ini
+/DreamMan/Saved/Logs/*.log
+/DreamMan/Saved/Config/Windows/*.ini
+/DreamMan/Saved/Logs/*.log
