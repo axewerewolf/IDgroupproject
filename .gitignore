@@ -80,3 +80,9 @@ DerivedDataCache/*
 /DreamMan/Saved/Logs/*.log
 /DreamMan/Saved/Config/Windows/*.ini
 /DreamMan/Saved/Logs/*.log
+/DreamMan/Intermediate/CachedAssetRegistry.bin
+/DreamMan/Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+/DreamMan/Saved/Autosaves/PackageRestoreData.json
+/DreamMan/Saved/Config/Windows/Editor.ini
+/DreamMan/Saved/Config/Windows/Engine.ini
+/DreamMan/Saved/AutoScreenshot.png
